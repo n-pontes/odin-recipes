@@ -4,6 +4,10 @@ body {
     background-color: rgb(114, 255, 154);
 }
 
+.main-page{
+    background-color: rgb(255, 255, 255);
+}
+
 /*This elements are the titles*/
 
 .t1 {
@@ -19,7 +23,6 @@ body {
 
 .description {
     font-size: 18px;
-    font-weight: bold;
 }
 
 .steps,
