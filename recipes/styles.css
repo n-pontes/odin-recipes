@@ -1,0 +1,42 @@
+body {
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(114, 255, 154);
+}
+
+/*This elements are the titles*/
+
+.t1 {
+    font-size: 50px;
+}
+
+.t2,
+.t3 {
+    font-size: 30px;
+}
+
+/*The description of the recipe and the preparation steps elements*/
+
+.description {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.steps,
+.ingredients {
+    font-size: 18px;
+}
+
+#button {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.home {
+    background-color: rgb(255, 50, 5);
+}
+
+.next {
+    background-color: rgb(0, 119, 255);
+}
