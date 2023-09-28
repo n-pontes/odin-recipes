@@ -1,6 +1,6 @@
 body {
     background-color: rgb(228, 237, 247);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
     box-sizing: border-box;
 }
 
@@ -39,7 +39,8 @@ body {
 
 .content {
     background-color: rgb(136, 200, 252);
-    margin: 0 auto;    
+    margin-right: auto;    
+    margin-left: auto;
     margin-top: 8px;
     margin-bottom: 8px;
 
