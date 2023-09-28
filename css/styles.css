@@ -1,18 +1,46 @@
-* body {
+body {
+    background-color: rgb(228, 237, 247);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
 }
 
-h1 {
-    background-color: brown;
-    text-align: center;
+.card {
+    width: 500px;
+    background-color: white;
+    margin: 30px auto;
+    padding: 8px;
 }
 
-ul {
-    background-color: lightsalmon;
-}
-
-.banner {
+.logo {
     width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 16px;
+
+    /*margin: 16px 0 0 16px*/
+    
+}
+
+.title {
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(136, 200, 252);
+    padding: 8px;
+}
+
+.description{
+    background-color: rgb(136, 200, 252);
+    padding: 8px;
+    margin: 0 auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.content {
+    background-color: rgb(136, 200, 252);
+    margin: 0 auto;    
+    margin-top: 8px;
+    margin-bottom: 8px;
+
 }
