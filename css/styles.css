@@ -23,16 +23,17 @@ body {
 }
 
 .title {
-    margin: 0 auto;
-    text-align: center;
     background-color: rgb(136, 200, 252);
     padding: 8px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .description{
     background-color: rgb(136, 200, 252);
     padding: 8px;
-    margin: 0 auto;
+    margin-right: auto;
+    margin-left: auto;
     margin-top: 8px;
     margin-bottom: 8px;
 }
